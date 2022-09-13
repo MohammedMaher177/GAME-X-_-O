@@ -1,0 +1,18 @@
+﻿  Board.cpp
+D:\PROJECT\class x o\class x o\Board.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\PROJECT\class x o\class x o\Board.cpp(49,21): warning C4129: ' ': unrecognized character escape sequence
+D:\PROJECT\class x o\class x o\Board.cpp(49,21): warning C4566: character represented by universal-character-name '\u0640' cannot be represented in the current code page (1252)
+  class x o.cpp
+D:\PROJECT\class x o\class x o\Playing.h(18,24): warning C4129: '_': unrecognized character escape sequence
+D:\PROJECT\class x o\class x o\Playing.h(18,154): warning C4129: ' ': unrecognized character escape sequence
+D:\PROJECT\class x o\class x o\class x o.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\PROJECT\class x o\class x o\class x o.cpp(16,7): warning C4101: 'win': unreferenced local variable
+D:\PROJECT\class x o\class x o\class x o.cpp(17,6): warning C4101: 'h': unreferenced local variable
+D:\PROJECT\class x o\class x o\class x o.cpp(15,7): warning C4101: 'g': unreferenced local variable
+  Player.cpp
+D:\PROJECT\class x o\class x o\Player.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Playing.cpp
+D:\PROJECT\class x o\class x o\Playing.h(18,24): warning C4129: '_': unrecognized character escape sequence
+D:\PROJECT\class x o\class x o\Playing.h(18,154): warning C4129: ' ': unrecognized character escape sequence
+  Generating Code...
+  class x o.vcxproj -> D:\PROJECT\class x o\x64\Debug\class x o.exe
